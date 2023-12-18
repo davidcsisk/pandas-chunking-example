@@ -1,4 +1,4 @@
-{"row-count-query":"SELECT count(*) row_count FROM bullhorn1.BH_JobOpportunity" ,
+{"row-count-query":"SELECT count(*) row_count FROM SomeTable" ,
 
 "id-range-query":"SELECT min(PKID) as start_id, max(PKID) as stop_id FROM (
   SELECT SomeColumn as PKID FROM SomeTable
