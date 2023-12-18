@@ -1,1 +1,1 @@
-mssql+pyodbc://@DATABASE2\BULLHORN_LG21/BULLHORN1510?driver=SQL+Server
+mssql+pyodbc://@DBHOST\LG01/DBname?driver=SQL+Server
